@@ -1,0 +1,1 @@
+belajar gut yang baik ya
