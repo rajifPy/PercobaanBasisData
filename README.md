@@ -1,1 +1,3 @@
-belajar gut yang baik ya
+belajar git yang baik yaa
+
+semoga lancar
