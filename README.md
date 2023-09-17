@@ -1,3 +1,1 @@
-belajar git yang baik yaa
-
-semoga lancar
+belajar git yang baik yaagit
