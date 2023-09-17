@@ -1,4 +1,3 @@
-belajar git yang baik yaa
+ayo bantu saya dalam project basis data
 
-
-okehh
+oke
