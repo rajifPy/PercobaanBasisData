@@ -1,1 +1,1 @@
-belajar git yang baik yaa
+belajar git yang baik yaagit
